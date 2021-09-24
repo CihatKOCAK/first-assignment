@@ -30,6 +30,7 @@ html body .row:after {
 
 html body .columnCode {
   float: right;
+  text-align: right;
   -webkit-box-flex: 50%;
       -ms-flex: 50%;
           flex: 50%;
@@ -74,14 +75,6 @@ html body .button {
   margin: 4px 2px;
   cursor: pointer;
   background-color: #454545;
-}
-
-.columnCode {
-  float: right;
-  text-align: right;
-  -webkit-box-flex: 50%;
-      -ms-flex: 50%;
-          flex: 50%;
 }
 
 .flex-parent {

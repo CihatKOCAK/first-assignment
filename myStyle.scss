@@ -26,6 +26,7 @@ html {
         }
         .columnCode {
             float: right;
+            text-align: right;
             flex: 50%;
         }
         .flex-parent {
@@ -63,11 +64,7 @@ html {
         }
     }
 }
-.columnCode {
-    float: right;
-    text-align: right;
-    flex: 50%;
-}
+
 .flex-parent {
     text-align: center;
     display: flex;
